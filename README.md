@@ -1,4 +1,4 @@
-# Hi there, I'm <a href="#"><span style="color:#0078d7;">Udit Joshi</span></a>! 👋
+# Hi there, I'm <a href="#"><span style="color:#0078d7;">Udit Joshi</span></a>👋
 
 🎓 **MCA Graduate | Software Developer | Problem Solver**  
 🌟 Passionate about coding, learning new technologies, and building impactful projects.
